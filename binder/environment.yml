@@ -10,4 +10,4 @@ dependencies:
 - h5py =3.11.0
 - h5io =0.2.2
 - pip:
-    - git+https://github.com/executorlib/executorlib-core.git
+    - git+https://github.com/executorlib/executorlib-cache.git
