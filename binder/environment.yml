@@ -5,3 +5,4 @@ dependencies:
 - flux-core
 - executorlib =0.0.1
 - pysqa =0.1.21
+- h5io =0.2.4
