@@ -3,18 +3,5 @@ channels:
 dependencies:
 - python
 - flux-core
-- cloudpickle =3.0.0
-- executorlib-core =0.0.1
-- numpy =1.26.4
-- h5py =3.11.0
-- h5io =0.2.2
-- defusedxml =0.7.1
-- pandas =2.2.2
-- pyyaml =6.0.1
-- jinja2 =3.1.4
-- paramiko =3.4.0
-- tqdm =4.66.2
-- pympipool =0.8.3
-- pip:
-    - git+https://github.com/executorlib/executorlib-cache.git
-    - git+https://github.com/pyiron/pysqa.git@dependencies
+- executorlib =0.0.1
+- pysqa =0.1.21
